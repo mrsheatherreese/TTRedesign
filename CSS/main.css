@@ -1,0 +1,31 @@
+body{
+	background-color: #DBD1C8;
+	max-width: 100%;
+}
+
+h1{
+	color: #343643;
+	text-align: center;
+}
+
+h2{
+	color: #633039;
+	text-align: center;
+}
+
+h3{
+	color: #AC8586;
+}
+
+p{
+	color: #E18868;
+}
+
+div{
+	border: 2px solid #343643;
+	border-radius: 15px;
+	margin: 2%;
+	overflow: hidden;
+	padding: 2%;
+	background-color: white;
+}
